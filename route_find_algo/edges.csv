@@ -1,7 +1,7 @@
 from_node,to_node,mode,cost,time
 Delhi,Mumbai,highway,50,24
 Delhi,Kolkata,railway,40,20
-Delhi,Chennai,railway,45000,25
+Delhi,Chennai,railway,45,25
 Delhi,Hyderabad,highway,35,22
 Mumbai,Kolkata,waterway,20,36
 Mumbai,Chennai,highway,30,20
@@ -72,7 +72,7 @@ Kolkata,Patna,railway,30,12
 Pune,Bangalore,highway,25,9
 Mumbai,Delhi,highway,50,24
 Kolkata,Delhi,railway,40,20
-Chennai,Delhi,railway,45000,25
+Chennai,Delhi,railway,45,25
 Hyderabad,Delhi,highway,35,22
 Kolkata,Mumbai,waterway,20,36
 Chennai,Mumbai,highway,30,20
