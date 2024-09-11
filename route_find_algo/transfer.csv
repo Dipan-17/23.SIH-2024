@@ -1,0 +1,7 @@
+node_name,from_mode,to_mode,transfer_cost,transfer_time
+Mumbai,highway,waterway,50,2
+Mumbai,railway,waterway,40,1.5
+Kolkata,railway,waterway,45,2
+Kochi,highway,waterway,35,1
+Chennai,railway,highway,30,0.5
+Visakhapatnam,highway,waterway,25,1

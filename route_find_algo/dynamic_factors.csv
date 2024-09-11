@@ -1,0 +1,8 @@
+from_node,to_node,accident_risk,congestion_factor,weather_delay
+Delhi,Mumbai,1.5,1.2,1.1
+Mumbai,Chennai,1.1,1.5,1.3
+Hyderabad,Bangalore,1.2,1.1,1.0
+Bangalore,Chennai,1.0,1.3,1.2
+Visakhapatnam,Kolkata,1.4,1.1,1.3
+Delhi,Kolkata,1.5,1.2,1.1
+Delhi,Hyderabad,999,999999,9999
